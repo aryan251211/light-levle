@@ -1,3 +1,3 @@
 basic.forever(function () {
-    music.setTempo(input.lightLevel() * 25)
+    music.setTempo(input.lightLevel() * 24)
 })
